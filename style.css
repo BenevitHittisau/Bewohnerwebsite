@@ -5,6 +5,7 @@ html {
 .flex-container {
   display: flex;
   background-color: DodgerBlue;
+  justify-content: center;
 }
 
 .flex-container > div {
