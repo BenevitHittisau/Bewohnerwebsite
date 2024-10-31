@@ -14,8 +14,19 @@ Update JS
   Open the different html files when the corresponsing button is pressed
 
 Add Files
+  Folder (Images)
+  Folder (Sounds)
   Folder (Subpages)
     Visuell-page.html
     Audio-page.html
     Aktivierung-page.html
     Spiele-page.html
+
+HTML all Pages
+  Info in the top right
+  Setting sin the top right
+
+Update Style
+  Add hover effect on the button
+  
+Ask for opinions on the general style of the document
