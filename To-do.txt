@@ -14,7 +14,8 @@ Update JS
   Open the different html files when the corresponsing button is pressed
 
 Add Files
-  Visuell-page.html
-  Audio-page.html
-  Aktivierung-page.html
-  Spiele-page.html
+  Folder (Subpages)
+    Visuell-page.html
+    Audio-page.html
+    Aktivierung-page.html
+    Spiele-page.html
