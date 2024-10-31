@@ -28,5 +28,19 @@ HTML all Pages
 
 Update Style
   Add hover effect on the button
-  
+
+Add Files
+  Folder (Images)
+  Folder (Sounds)
+  Folder (Subpages)
+    Visuell-page.html
+      Folder (Subpages)
+    Audio-page.html
+      Folder (Subpages)
+    Aktivierung-page.html
+      Folder (Subpages)
+        Math.html
+    Spiele-page.html
+      Folder (Subpages)
+
 Ask for opinions on the general style of the document
