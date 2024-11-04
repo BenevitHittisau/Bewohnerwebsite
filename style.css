@@ -9,7 +9,7 @@ html {
   height: 50%;
 }
 
-.row > div {
+.row div {
   width: 50%;
   height: 100%;
   float: left;
