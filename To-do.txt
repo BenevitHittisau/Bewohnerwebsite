@@ -5,8 +5,6 @@ Update Style
   Add a Image to the buttons (no svg yet)
 
 Update HTML
-  4 Buttons: Visuell, Audio, Aktivierung, Spiele
-  2 Div (half page)
   4 Div (~20% of page width and size) -> change to the width and automatically set that px value to the height as well
 
 Update JS
