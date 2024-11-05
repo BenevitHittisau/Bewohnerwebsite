@@ -1,24 +1,9 @@
 Update Style
-  Background light gray
-  Create 4 big buttons (100% size of div)
-  Add a border around the divs
   Add a Image to the buttons (no svg yet)
-
-Update HTML
-  4 Div (~20% of page width and size) -> change to the width and automatically set that px value to the height as well
 
 Update JS
   change to the width and automatically set that px value to the height as well
   Open the different html files when the corresponsing button is pressed
-
-Add Files
-  Folder (Images)
-  Folder (Sounds)
-  Folder (Subpages)
-    Visuell-page.html
-    Audio-page.html
-    Aktivierung-page.html
-    Spiele-page.html
 
 HTML all Pages
   Info in the top right
