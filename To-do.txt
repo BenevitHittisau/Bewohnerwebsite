@@ -1,29 +1,5 @@
-Update Style
-  Add a Image to the buttons (no svg yet)
-
-Update JS
-  change to the width and automatically set that px value to the height as well
-  Open the different html files when the corresponsing button is pressed
-
 HTML all Pages
-  Info in the top right
-  Setting sin the top right
-
-Update Style
-  Add hover effect on the button
-
-Add Files
-  Folder (Images)
-  Folder (Sounds)
-  Folder (Subpages)
-    Visuell-page.html
-      Folder (Subpages)
-    Audio-page.html
-      Folder (Subpages)
-    Aktivierung-page.html
-      Folder (Subpages)
-        Math.html
-    Spiele-page.html
-      Folder (Subpages)
+  Info in the top left
+  Setting sin the top left
 
 Ask for opinions on the general style of the document

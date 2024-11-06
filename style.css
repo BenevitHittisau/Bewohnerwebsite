@@ -21,5 +21,9 @@ td {
 button {
   background-color: #04AA6D;
   width: 50%;
-  height: 60%;
+  height: 80%;
+}
+
+button:hover {
+  background-color: #20dc97; 
 }

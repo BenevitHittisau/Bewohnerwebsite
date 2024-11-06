@@ -1,9 +1,8 @@
-const tableDetail = document.querySelectorAll("td");
+const buttons = document.querySelectorAll("button");
 
-tableDetail.forEach(td => {
-    const computedStyle = window.getComputedStyle(td);
-    const height = computedStyle.height;
+buttons.forEach(button => {
+    const computedStyle = window.getComputedStyle(button);
+    const height = parseFloat(computedStyle.height) * 1.75;
 
-    td.style.width = height;
-    
+    button.style.width = `${height}px`;
 });
