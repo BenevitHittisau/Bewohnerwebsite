@@ -1,3 +1,11 @@
+HTML
+  Replace buttons with SVG images
+
+JS
+  Create a script to open subpages when svg is pressed
+
+
+
 HTML all Pages
   Info in the top left
   Setting sin the top left
