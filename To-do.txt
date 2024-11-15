@@ -1,10 +1,38 @@
 HTML
-  Replace buttons with SVG images
+  Place a button with scalable text (dependant on the button size that the text fits inside it)
 
 JS
-  Create a script to open subpages when svg is pressed
+  Adjust the font size based on the button width
 
+CSS
+  Make the button invisible (transparent)
 
+JS
+  Draw a Rect with the buttons position
+
+Aktivierung HTML
+  Create a table of button elements in the aktievierung.html (Max 5 per row)
+  Link to the Math.html
+
+Aktivierung CSS
+  Make the button transparent
+
+Aktivierung JS
+  Adjust font and button size depending on the screen size
+
+Mathe HTML
+  Create a canvas the size of the page
+
+Mathe JS
+  Drawn a rect with a white background and inside a number (scales with the canvas size)
+  Position it in the top-center of the screen
+  Create a refresh icon on the top of the screen 
+  Create random number templates (0-9) 
+  Display a random number each time the page is refreshed or the refresh button is pressed
+  Create a template for + and - (smaller than the numbers)
+  Display 3 numbers on the bottom of the screen (random)
+  Create a script that chooses 2 numbers and either adds or subtracts and has the answer saved
+  Create a script that chooses the 3 numbers diplayed on the bottom of the page (1 is correct 2 are false)
 
 HTML all Pages
   Info in the top left
