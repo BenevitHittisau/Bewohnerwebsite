@@ -6,3 +6,15 @@ buttons.forEach(button => {
 
     button.style.width = `${height}px`;
 });
+
+function adjustFontSize() {
+    const textElements = document.querySelectorAll('.responsive-text');
+    
+    textElements.forEach(element => {
+        console.log(height)
+        element.style.fontSize = (heigth * 0.01) + "px";
+    });
+  }
+
+window.addEventListener('load', adjustFontSize);
+window.addEventListener('resize', adjustFontSize);

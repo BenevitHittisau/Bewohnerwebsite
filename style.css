@@ -27,3 +27,7 @@ button {
 button:hover {
   background-color: #20dc97; 
 }
+
+.responsive-text {
+  font-size: 8vw; 
+}
