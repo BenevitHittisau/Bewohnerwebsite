@@ -6,7 +6,7 @@ html, body {
 }
 
 #myCanvas {
-  z-index: 0;
+  z-index: -1;
   position: fixed;
   width: 100vw;
   height: 100vh;
@@ -17,7 +17,6 @@ table {
   width: 100vw;
   height: 100vh;
   border-collapse: collapse;
-  z-index: 1;
 }
 
 td {
