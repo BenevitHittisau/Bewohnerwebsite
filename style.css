@@ -5,6 +5,11 @@ html, body {
   background-color: #dedede;
 }
 
+#myCanvas {
+  z-index: 0;
+  position: fixed;
+}
+
 table {
   width: 100vw;
   height: 100vh;
@@ -31,8 +36,4 @@ button:hover {
 
 .responsive-text {
   font-size: 8vw; 
-}
-
-#myCanvas {
-  z-index: 0;
 }
