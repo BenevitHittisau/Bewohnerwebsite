@@ -8,9 +8,10 @@ CSS
   Make the button invisible (transparent)
   Make a rustical old looking background and the buttons should have a strong black border
   Maybe in a white/gray looking background and buttons
-  Potentially some backgorund-animations -> canvas in the background
+  
 JS
   Create a canvas in the background that's the size of the whole screen
+  Potentially some backgorund-animations -> canvas in the background (Old Casette in the background)
 
 Aktivierung HTML
   Create a table of button elements in the aktievierung.html (Max 5 per row)
